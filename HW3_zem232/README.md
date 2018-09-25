@@ -1,5 +1,5 @@
 # PUI2018 - ASSIGNMENT 3 - ZEM232
-All files in this repo are part of a HW#3 submission
+All files in this repo are part of my HW#3 submission
 
 ## Part 1: deleteData.md
 I created the file test.csv with three data entries in my local directory.
