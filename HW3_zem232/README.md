@@ -1,10 +1,15 @@
+# PUI2018 - ASSIGNMENT 3 - ZEM232
 All files in this repo are part of a HW#3 submission
 
-The following screenshot submitting for HW #1:
+## Part 1: deleteData.md
+I created the file test.csv with three data entries in my local directory.
+This file was pushed to GitHub to my HW3_zem232 repository...
+![Alt text](../HW3_zem232/original_test_csv.jpeg)
 
-This bash code was entered into the terminal:
-![Alt text](../HW1_zem232/Bash_terminal_code.jpeg)
+... further proof shown by the GitHub commit timestamp:
+![Alt text](../HW3_zem232/GitHub_commit_timestamp.jpeg)
 
-The .bash_profile file was edited as follows:
-![Alt text](../HW1_zem232/Edit_bash_profile.jpeg)
+This file was then permanently removed from my GitHub repository through the following bash shell code:
+![Alt text](../HW3_zem232/bashcode_force_remove.jpeg)
 
+## Part 2: 
