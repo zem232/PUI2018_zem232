@@ -12,10 +12,10 @@ Summary: Compared to naive mice that recieved methamphetamine (METH) doses for t
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-|ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categorical) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [Decreased Level of Nurr1 in Heterozygous Young Adult Mice Leads to Exacerbated Acute and Long-Term Toxicity after Repeated Methamphetamine Exposure](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015193) |
+|ANCOVA	| 1, Ranks of values | numerical | 1, did Self Affirmation or no| categorical | 1, age of mice | continuous (could also be categorical) | 	Do mice exposed to meth in adolescence experience more adverse health effects than mice using meth after adolescence?? | Ranks test groups <= Ranks control group | 0.001 | [Decreased Level of Nurr1 in Heterozygous Young Adult Mice Leads to Exacerbated Acute and Long-Term Toxicity after Repeated Methamphetamine Exposure](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015193) |
   |||||||||
   
   
   Include the main plot of the paper (the plot that summarized the result)
   
-![main plot](ancovaplosone.png)
+![main plot](ANCOVA.png)
