@@ -16,6 +16,5 @@ Summary: Compared to naive mice that recieved methamphetamine (METH) doses for t
   |||||||||
   
   
-  Include the main plot of the paper (the plot that summarized the result)
   
 ![main plot](ANCOVA.png)
