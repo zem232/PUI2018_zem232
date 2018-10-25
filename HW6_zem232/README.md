@@ -15,6 +15,7 @@ Summary: Compared to naive mice that recieved methamphetamine (METH) doses for t
 |ANCOVA	| 1, Ranks of values | numerical | 1, did Self Affirmation or no| categorical | 1, age of mice | continuous (could also be categorical) | 	Do mice exposed to meth in adolescence experience more adverse health effects than mice using meth after adolescence?? | Ranks test groups <= Ranks control group | 0.001 | [Decreased Level of Nurr1 in Heterozygous Young Adult Mice Leads to Exacerbated Acute and Long-Term Toxicity after Repeated Methamphetamine Exposure](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015193) |
   |||||||||
   
-  
-  
+
 ![main plot](ANCOVA.png)
+
+
