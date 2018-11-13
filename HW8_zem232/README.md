@@ -36,3 +36,26 @@ The corresponding names to each NTA code can be found on [NYC OPEN DATA](https:/
 
 # Part 2: Citibike Miniproject
 
+For this mini-project, I will be looking into how age of riders impacts ridership patterns. 
+
+## Citi Bikes IDEA: 
+#### Younger people are more likely to use Citi Bike in the evenings.
+
+## NULL HYPOTHESIS:
+#### The daily proportion of young people (the younger half of the population) is the same or higher than the proportion of the older people (the older half of the population) biking in the evenings (after 7 pm).
+
+# _$H_0$_ : $\frac{Y_{\mathrm{evening}}}{Y_{\mathrm{total}}} - \frac{O_{\mathrm{evening}}}{O_{\mathrm{total}}}>= 0 $
+# _$H_1$_ : $\frac{Y_{\mathrm{evening}}}{Y_{\mathrm{total}}} - \frac{O_{\mathrm{evening}}}{O_{\mathrm{total}}} < 0$
+
+
+#### Using a significance level  $\alpha=0.05$
+
+#### By calculating the daily proportion for a single month, I obtained ~30 trials to test. Therefore, a t-test will suffice.
+
+
+Data acquisition, wrangling, and analysis was produced according to the notebook "HW8_zem232_citibikes.ipynb" in this repo. 
+
+The full report can be found in the following link on Authorea:
+https://www.authorea.com/336225/a_aNTd0HVH37T3xnXzrs6w
+
+
