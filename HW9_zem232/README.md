@@ -1,6 +1,8 @@
 # PUI 2018 - HOMEWORK 9 - ZEM232
 __author__ = Zoe Martiniak, NYU CUSP
 
+** I PLAN TO TAKE THE 72-HOUR extension for this homework ***
+
 ### Part 1: CitiBike Statistical Analysis Peer Review
 
 
