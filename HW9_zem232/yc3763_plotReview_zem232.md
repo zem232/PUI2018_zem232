@@ -2,6 +2,8 @@
 
 For this assignment, yc3763 chose to visualize the median family income for families in New York City with a choropleth. 
 
+![Alt text](../median_income_families_in_New_York_City.png)
+
 **Aesthetics**
 150% pleased with the aesthetics - I really like the chosen color scheme contrasted to the seaborn gray background.
 While cyan and magenta do get confused for color-impaired vision (deuteranopia & protanopia), the color map factor in the magnitude of color so the effects can still be distinguished easily for any color-sensitive people and if the plot were converted to gray scale (e.g. printed in b&w)
