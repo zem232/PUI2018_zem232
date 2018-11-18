@@ -1,6 +1,8 @@
 ## Review of sjf374's urban visualization.
 For this assignment, sjf374 decided to visualize the number of registered in dogs in New York City neighborhoods with a choropleth.
 
+![graph](https://github.com/zem232/PUI2018_zem232/blob/master/HW9_zem232/Graph.png)
+
 **Effective** 
 This plot is very clear, easy to read, and the information you are trying to convey is done correctly. The bright yellow contrasts well against the deep purple and is easy to know that those regions have the highest dog ownership.
 
