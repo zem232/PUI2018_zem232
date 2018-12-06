@@ -15,7 +15,7 @@ Data acquisition, wrangling & visualization is produced in the notebook titled "
 
 ![Alt text](../HW11_zem232/Groceries&Delis.jpeg)
 ### Delis and Groceries by Zip Code
-The figure illustrates the percentage of delis and groceries of the total registered businesses in each Brooklyn Neighborhood. Upon initial glance, there is no apparent "winner" in terms of which appears more. 
+The figure illustrates the percentage of delis and groceries of the total registered businesses in each Brooklyn Neighborhood. Upon initial glance, there is no apparent "winner" in terms of which appears more. Some neighborhoods which have the highest percentage of groceries & delis in terms of total registered businesses (such as Pennsylvania Ave, Bedford & Bedstuy Heights) seem to have higher deli to grocery ratios. This will be interesting to compare to demographic data. Please stay tuned while I updated this GitHub page after investigating demographic data. 
 
 
 
