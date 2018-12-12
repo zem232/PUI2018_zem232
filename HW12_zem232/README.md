@@ -10,10 +10,12 @@ I worked on this assignment on my own.
 In this assignment, we investigated trends in NYC economic development by clustering patterns in the number of establishments in NYC zip codes using K-means and Agglomerative clustering (Sklearn).
 
 ![Alt text](../HW12_zem232/NYCkmeansk=4trends.jpeg)
+
 **NYC Paying Establishments Time Series (Clustered w/ K-means)** Using K-Means clustering to evaluate trends in the total count of NYC establishments by Zip Code.
 
 
 ![Alt text](../HW12_zem232/NYCbothclusters.jpeg)
+
 **K-Means vs. Agglomerative** Comparing clustering techniques K-means on the left, and agglomerative on the right. The trends are very similar, however the k-means method attempts to create similarly-sized clusters, while the agglomerative method groups the majority of zip codes into one cluster. The general trends that both methods indicate is a generally increasing number of establishments in NYC, with a few other zip codes that exhibit different patterns.
 
 **Discussion**
