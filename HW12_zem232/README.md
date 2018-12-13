@@ -1,7 +1,7 @@
 # PUI2018 HW 12
 December 13, 2018
 
-### Assignment 1. [Subway Timeseries Part 2](../HW12_zem232/HW12_zem232_MTA_Time_Series.ipynb) 
+### Assignment 1. [Subway Timeseries Part 2](../HW12_zem232/HW12_zem232_MTA_Time_Series_.ipynb) 
 This is a continuation of the subway timeseries assignment in HW11: examining outlier, trends and periodicity of MTA subway swipes. I worked on this assignment on my own.
 
 
