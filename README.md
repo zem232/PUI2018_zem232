@@ -23,5 +23,7 @@ Taught by Federica Bianco (https://github.com/fedhere)
 6. [Chi-Square Hypothesis Testing](https://github.com/zem232/PUI2018_zem232/blob/master/HW6_zem232/HW6_zem232_Assignment_3.ipynb)  
 [Citi-Bike](https://github.com/zem232/PUI2018_zem232/blob/master/HW6_zem232/HW6_zem232_Assignment_4.ipynb)
 
+7. [Geopandas, NYC PUMA, Choropleth](https://github.com/zem232/PUI2018_zem232/blob/master/HW7_zem232/HW7_zem232_Geopandas.ipynb)
+
 10. [Loglikelihood Ratio Test, Anscombe's Quartet, OLS](https://github.com/zem232/PUI2018_zem232/blob/master/HW10_zem232/HW10_zem232_Part1_LRTest.ipynb) 
 [Feature Engineering, Error Plotting](https://github.com/zem232/PUI2018_zem232/blob/master/HW10_zem232/HW10_zem232_BldgNRG.ipynb)
